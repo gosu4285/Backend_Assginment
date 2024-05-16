@@ -1,0 +1,7 @@
+fastapi
+SQLAlchemy
+shortuuid
+starlette
+pydantic
+httpx
+pytest
